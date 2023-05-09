@@ -10,6 +10,6 @@ namespace SOLID.LSP.LSP_Without_Voilate
     {
         public double Price = 5000;
 
-        /// implement code here
+        /// implement code heres
     }
 }
