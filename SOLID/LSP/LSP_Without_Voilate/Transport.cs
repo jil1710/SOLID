@@ -8,8 +8,8 @@ namespace SOLID.LSP.LSP_Without_Voilate
 {
     internal class Transport
     {
-        private string? Name { get; set; }
-        private double Speed { get; set; }
+        private string? Name;
+        private double Speed;
 
 
         public void SetName(string name)

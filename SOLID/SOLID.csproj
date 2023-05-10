@@ -5,12 +5,7 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>SOLID.SRP.SRP_Without_Voilate.Program</StartupObject>
+    <StartupObject>SOLID.DIP.DIP_Without_Voilate.Program</StartupObject>
   </PropertyGroup>
-
-  <ItemGroup>
-    <Folder Include="LSP\LSP_Voilate_Ex\" />
-    <Folder Include="LSP\LSP_Without_Voilate\" />
-  </ItemGroup>
 
 </Project>
